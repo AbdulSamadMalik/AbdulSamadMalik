@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @AbdulSamadMalik
+- 👀 I’m interested in Web & Android Development
+- 🌱 I’m currently learning React, Angular and Flutter
+- 📫 You can reach me by email samadmalik542762@gmail.com
