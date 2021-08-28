@@ -1,5 +1,9 @@
-- 👋 Hi, I’m Abdul Samad Malik
-- ✨ I like to create apps that help people in their daily tasks
-- 👀 I’m interested in Web & Android Development
-- 🌱 Currently I’m learning React, Angular and Flutter
-- 📫 You can contact me at asmalik.dev@gmail.com
+👋 Hi, I’m Abdul Samad Malik
+
+✨ I like to create web apps & websites that help people in their day to day tasks
+
+👀 I’m interested in Web & Android Development
+
+🌱 Currently I’m learning Svelte, Gatsby, Python & Flutter 
+
+📫 You can contact me at asmalik.dev@gmail.com
