@@ -1,9 +1,11 @@
-👋 Hi, I’m Abdul Samad Malik
+👋 Hi, I’m Abdul Samad Malik 
 
-✨ I like to create web apps that help people in their day to day lives
+❤️ loves Open Source
 
-👀 I’m interested in Web, Android and Python
+✨ I like to create apps that help people in their day to day life
 
-🌱 Currently I’m learning Flutter
+👀 I’m interested in Web development and Android development with Flutter
+
+<!-- 🌱 Currently I’m learning Flutter -->
 
 📫 You can contact me at asmalik.dev@gmail.com
