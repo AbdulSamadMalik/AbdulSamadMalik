@@ -2,8 +2,8 @@
 
 ✨ I like to create web apps that help people in their day to day lives
 
-👀 I’m interested in Web, Android and Python Development
+👀 I’m interested in Web, Android and Python
 
-<!-- 🌱 Currently I’m learning Svelte, Gatsby, Python & Flutter -->
+🌱 Currently I’m learning Flutter
 
 📫 You can contact me at asmalik.dev@gmail.com
