@@ -6,6 +6,6 @@
 
 👀 I’m interested in Web development and Android development with Flutter
 
-<!-- 🌱 Currently I’m learning Flutter -->
+🌱 Currently I’m learning Rust
 
 📫 You can contact me at asmalik.dev@gmail.com
