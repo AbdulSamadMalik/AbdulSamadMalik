@@ -1,11 +1,11 @@
-👋 Hi, I’m Abdul Samad Malik 
+👋 Hi, I’m Abdul Samad
 
-❤️ loves Open Source
+❤️ I love Open Source
 
-✨ I like to create apps that help people in their day to day life
+✨ I like to create software that help people in their day to day life
 
 👀 I’m interested in Web development and Android development with Flutter
 
-🌱 Currently I’m learning Rust
+🌱 Currently I’m learning Rust, Flutter for desktop development
 
 📫 You can contact me at asmalik.dev@gmail.com
