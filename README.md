@@ -7,8 +7,8 @@
 
 ✨ I like to create software that help people in their day to day life
 
-👀 I’m interested in Web development and Android development with Flutter
+👀 I’m interested in Web development, Mobile development, and AI
 
-🌱 Currently I’m learning Rust, Flutter for desktop development
+🌱 Currently I’m learning, Python for AI/DL, Rust for high performance CLIs and Flutter for cross-platform development
 
 📫 You can contact me at asmalik.dev@gmail.com
